@@ -23,7 +23,6 @@ This internship helped me build strong foundations in cybersecurity through hand
 - Designed a comprehensive phishing awareness training program
 - Educated users about phishing attacks and social engineering threats
 - Covered common phishing techniques and real-world examples
-- Included identification methods and preventive measures
 
 
 ## 🔶 TASK 3: SECURE CODING REVIEW
