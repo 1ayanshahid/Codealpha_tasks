@@ -20,7 +20,7 @@ This internship helped me build strong foundations in cybersecurity through hand
 ## 🔶 TASK 2: PHISHING AWARENESS TRAINING
 
 ### Description
-- Designed a comprehensive phishing awareness training program
+- Designed a comprehensive phishing awareness training presentation
 - Educated users about phishing attacks and social engineering threats
 - Covered common phishing techniques and real-world examples
 
@@ -36,11 +36,11 @@ This internship helped me build strong foundations in cybersecurity through hand
 
 ##  Consolidated Internship Repository
 
-All internship tasks have been organised into a single consolidated repository for easy navigation. This repository demonstrates my practical experience and my tasks links are given bellow:
+All internship tasks have been organised into a single consolidated repository for easy navigation. This repository demonstrates my practical experience and the links to my tasks are given below:
 
-- Task 1: Network Sniffer
-- Task 2: Phishing Awareness Training
-- Task 3: Secure Coding Review
+- Task 1: https://github.com/1ayanshahid/codealpha_tasks/tree/main/CodeAlpha_Network%20Sniffer
+- Task 2: https://github.com/1ayanshahid/codealpha_tasks/tree/main/CodeAlpha_Phishing%20Awareness%20Training
+- Task 3: https://github.com/1ayanshahid/codealpha_tasks/tree/main/CodeAlpha_Secure%20Coding%20Review
 
 
 ⭐ Thank you for visiting my repository!
