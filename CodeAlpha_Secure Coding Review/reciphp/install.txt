@@ -1,0 +1,17 @@
+Install:
+1. Upload contents
+2. Change database info in config.php
+
+Upgrade:
+1. Write database info down somewhere safe
+2. Delete all old files
+3. Upload all new files contained in this package (excluding .sql file)
+4. Copy database info to config.php
+
+Release Notes
+
+ReciPHP 1.1 June 5, 2011
+Made one database connection instead of multipule.
+
+ReciPHP 1.0 May 25, 2011
+First Release

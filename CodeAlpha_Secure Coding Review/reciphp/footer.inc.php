@@ -1,0 +1,5 @@
+<div id="footer">
+<center>
+<a href="#">Contact Us</a> | &copy;2011 ReciPHP v1<!-- Your site name can replace text to the left --> | Powered by: <a href="http://www.reciphp.com">&copy;ReciPHP 2011<!--  If removed no customer support will be provided --></a> | Template by: <a href="http://www.idezignz.net" target="_blank">IDezignz Network</a> | <a href="http://creativecommons.org/licenses/by-sa/3.0/">Terms</a><br/>
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/80x15.png" width="60" height="10"/></a> <span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">ReciPHP</span> by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">r0ck</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.</center>
+</div>

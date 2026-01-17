@@ -1,0 +1,167 @@
+body{
+	font-family: Arial,sans-serif;
+	font-size: 1em;
+	color: #333333;
+	line-height: 1.166;	
+	margin: 0px;
+	padding: 0px;
+}
+
+h1, h2, h3, h4, h5, h6 { font-family: 'Quattrocento Sans', arial, serif; }
+
+.wrapper {
+	width: 900px;
+	margin: 0 auto;
+}
+
+a{
+	color: #006699;
+	text-decoration: none;
+}
+
+a:link{
+	color: #006699;
+	text-decoration: none;
+}
+
+a:visited{
+	color: #006699;
+	text-decoration: none;
+}
+
+a:hover{
+	color: #FCCA73;
+}
+
+h1{
+ font-size: 120%;
+ color: #334d55;
+ margin: 0px;
+ padding: 0px;
+}
+
+h2{
+ font-size: 120%;
+ color: #334d55;
+ margin: 0px;
+ padding: 0px;
+}
+
+h3{
+ font-size: 110%;
+ color: #334d55;
+ margin: 0px;
+ padding: 10px;
+}
+
+h4{
+ font-size: 100%;
+ color: #334d55;
+ margin: 0px;
+ padding: 0px;
+}
+
+#header{
+	padding-top: 7px;
+	padding-bottom: 7px;
+	border-bottom: 1px solid #E2EAEF;
+	height: 90px;
+	width: 100%;
+	border-bottom: 1px solid #E2EAEF;
+	border-top: 1px solid #E2EAEF;
+	background-color: #f3f6f8;
+}
+
+#header_content {
+	width: 900px;
+	margin: 0 auto;
+}
+
+#main {
+	width: 50%;
+	float: left;
+	padding-left: 3%;
+	margin: 0 auto;
+}
+
+#nav {
+	float: left;
+	background-color: #FFE3AA;
+	width: 20%;
+	padding: 10px;
+	border-radius: 8px 0 8px 0;
+	}
+
+#news {
+	float: right;
+	background-color: #f3f6f8;
+	width: 20%;
+	padding: 10px;
+	border-radius: 8px 0 8px 0;
+	}
+	
+#footer {
+	padding-top: 7px;
+	padding-bottom: 7px;
+	font-size: 0.6em;
+	border-bottom: 1px solid #E2EAEF;
+	border-top: 1px solid #E2EAEF;
+	background-color: #f3f6f8;
+	width: 100%;
+}
+
+#search_bar {
+	border-bottom: 1px solid #E2EAEF;
+}
+
+#preview {
+	background-color: #f3f6f8;
+	border-radius: 8px 0 8px 0;
+	padding: 10px;
+}
+
+#news_feed {
+	background-color: #f3f6f8;
+	border-radius: 8px 0 8px 0;
+	padding: 20px;
+}
+
+#news_feed:hover {
+	background-color: #E2EAEF;
+	border-radius: 8px 0 8px 0;
+	padding: 20px;
+}
+
+hr { background-color: #E2EAEF; color: #E2EAEF; height: 1px; }
+#clear { clear: both; }
+
+/*Menu CSS - Feel Free To Edit To Your Desire*/
+.outer a, .outer div, .outer li, .outer ul, .outer body{
+	margin: 0;
+	padding: 0;
+	font-family: Verdana, Helvetica, Arial, sans-serif;
+}
+div.menu{
+	width: 100%;
+}
+div.menu ul{
+	list-style: none;
+	text-indent: 0px;
+}
+div.menu li{
+	margin-top: 3px;
+	padding: 5px;
+}
+div.menu a{
+	font-size: 0.7em;
+	padding: 5px;
+	color: #646464;
+	display:block;
+	height: 20px;
+	text-decoration: none;
+}
+div.menu a:hover{
+	background-color: #FCCA73;
+	border-radius: 8px 0 8px 0;
+	font-size: 0.8em;
+}
